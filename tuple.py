@@ -1,0 +1,6 @@
+tup1=(21,"hello","pfsd",9.1)
+print(tup1)
+print(tup1[0:3])
+print(tup1[2:])
+print(tup1*5)
+print(tup1+tup1)
